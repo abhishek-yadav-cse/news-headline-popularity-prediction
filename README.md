@@ -48,14 +48,14 @@ source-internal evaluation.
 
 1.3 Literature/Market Review
 
-The dataset that I have used here has been used from a publication with below details:
+The dataset that I have used here has been used from a publication with below details:<br>
 a. UCI link to dataset -
 http://archive.ics.uci.edu/ml/datasets/News+Popularity+in+Multiple+Social+Media+Platforms
-b. Directory Structure of Dataset - http://archive.ics.uci.edu/ml/machine-learning-databases/00432/Data/
+b. Directory Structure of Dataset - http://archive.ics.uci.edu/ml/machine-learning-databases/00432/Data/<br>
 c. This dataset contains the details of the news headlines in different categories with their sentiments and the
-popularity quotient of these news on different social media platforms spanning November 2015 - July 2016
+popularity quotient of these news on different social media platforms spanning November 2015 - July 2016 <br>
 d. The dataset for news details includes news article ID, title, headline, source, topic, publish date, sentiment
-score for title, sentiment score for headline.
+score for title, sentiment score for headline.<br>
 e. The dataset for multiple social media platforms are categorized according to the news categories and the
 details includes new article ID, popularity in time slices 0 min - 2 days upon publication with difference of
 20 min.
@@ -148,6 +148,9 @@ matplotlib(v.2.1.0) Tensorflow(v. 1.5.1), Keras(v. 2.1.5)
 
 2.2 Architecture design
 
+![alt text](https://github.com/abhishek-yadav-cse/news-headline-popularity-prediction/blob/master/architecture.png)
+
+
 2.3 System design/architecture/data flow
 
 I have designed the model using the following steps-
@@ -207,8 +210,14 @@ category.
 
 Comparative study of different classification algorithms that I used:
 
+![alt text](https://github.com/abhishek-yadav-cse/news-headline-popularity-prediction/blob/master/comparisonTable.png)
+
 
 3.4 Graphs for Algorithm Comparison
+
+![alt text](https://github.com/abhishek-yadav-cse/news-headline-popularity-prediction/blob/master/graphSet1.png)
+![alt text](https://github.com/abhishek-yadav-cse/news-headline-popularity-prediction/blob/master/graphSet2.png)
+![alt text](https://github.com/abhishek-yadav-cse/news-headline-popularity-prediction/blob/master/graphSet3.png)
 
 
 
