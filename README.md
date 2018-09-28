@@ -251,9 +251,11 @@ Comparative study of different classification algorithms that I used:
 While building this model, I had to take various crucial decisions, listed below-
 a. Problem statement - I researched numerous scenarios and problem statements that I would be
 willing to work on, and then I found this problem which I found really interesting.
+
 b. Dataset - While working to find a problem statement, I came across many datasets. I needed to
 choose a problem with dataset which had proper scope and feasibility so that it falls under the class
 requirements.
+
 c. Algorithms - I went through various classification techniques, similarity analysis and time series
 analysis to build a model which would give results with high accuracy. For this, three of us worked on
 different algorithms and then compared the results to come up with the best possible solution.
