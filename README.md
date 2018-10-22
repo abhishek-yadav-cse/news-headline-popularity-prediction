@@ -42,8 +42,10 @@ is out of their control. Moreover, these previous models consider headlines and 
 headlines play a crucial role in the online news domain, it is worth investigating to what extent I can predict
 an article’s popularity from the headline alone. Our goal is to investigate a wide variety of text features
 extracted from headlines and determine whether they have impact on social media popularity of news articles.
-I enhance prior work by: (i) using only headlines; (ii) introducing new features; and (iii) using a
-source-internal evaluation.
+I enhance prior work by: 
+(i) using only headlines.
+(ii) introducing new features.
+(iii) using a source-internal evaluation.
 
 
 ### 1.3 Literature/Market Review
